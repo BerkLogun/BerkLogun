@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BerkLogun
 - 👀 I’m interested in Creative Coding, Python Programming, Back-end Development and Javascript
 - 🌱 I’m currently learning Machine Learning technologies, Full-stack application developing and AWS
-- 📫 How to reach me --> via 
-- [Email](mailto:berklogun@hotmail.com)
+- 📫 How to reach me --> email: berklogun@hotmail.com
+- 
 - [LinkedIn](https://www.linkedin.com/in/berklogun/)
 
 <!---
